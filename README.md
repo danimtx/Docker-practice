@@ -35,8 +35,8 @@ Este microservicio sirve como el motor backend para una plataforma web. A contin
 
 El usuario puede seleccionar su tipo de cuenta y proceder al registro mediante los formularios controlados por el backend.
 <p align="center">
-  <img src="Images/registro.png" alt="Formulario de Registro" width="45%" />
-  <img src="Images/login.png" alt="Login de Usuario" width="45%" />
+  <img src="Images/registro.png" alt="Formulario de Registro" width="100%" />
+  <img src="Images/login.png" alt="Login de Usuario" width="100%" />
 </p>
 
 ---
@@ -121,4 +121,4 @@ Sigue estas instrucciones para levantar el entorno localmente.
     ```
 
 ---
-by danimtx
+danimtx
