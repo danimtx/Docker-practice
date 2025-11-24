@@ -1,0 +1,9 @@
+#version: '3.8'
+
+services:
+  usermanagement-api:
+    build: .
+    container_name: contenedor-firebase-compose
+    ports:
+      - "5000:8080"
+    restart: on-failure
